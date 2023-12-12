@@ -1,0 +1,16 @@
+[package]
+name = "ryst"
+version = "0.1.0"
+authors = ["haruki7049 <tontonkirikiri@gmail.com>"]
+edition = "2021"
+description = "A joke command for newbie rustacean"
+readme = "README.md"
+homepage = "https://github.com/haruki7049/ryst"
+repository = "https://github.com/haruki7049/ryst"
+license = "MIT"
+keywords = ["cli", "joke"]
+categories = ["command-line-utilities"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
